@@ -1,0 +1,98 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(1149,5): warning MSB4211: Свойству "GetTargetPathDependsOn" в первый раз присваивается значение, но оно уже было использовано в "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (2259,5)".
+cl : командная строка  warning D9035: использование параметра "Zc:forScope-" нежелательно, он будет удален в следующих выпусках
+  stdafx.cpp
+D:\Programming\xray_engine\src\Engine\xrCore\xrMemory.h(126,11): warning C4595: "operator new": не допускается встроенное объявление функций Operator new или Operator delete, не являющихся членами
+  (компиляция исходного файла "stdafx.cpp")
+  
+D:\Programming\xray_engine\src\Engine\xrCore\xrMemory.h(127,11): warning C4595: "operator delete": не допускается встроенное объявление функций Operator new или Operator delete, не являющихся членами
+  (компиляция исходного файла "stdafx.cpp")
+  
+D:\Programming\xray_engine\src\Engine\xrCore\xrMemory.h(128,11): warning C4595: "operator new[]": не допускается встроенное объявление функций Operator new или Operator delete, не являющихся членами
+  (компиляция исходного файла "stdafx.cpp")
+  
+D:\Programming\xray_engine\src\Engine\xrCore\xrMemory.h(129,11): warning C4595: "operator delete[]": не допускается встроенное объявление функций Operator new или Operator delete, не являющихся членами
+  (компиляция исходного файла "stdafx.cpp")
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(142,43): warning C4458: объявление "C" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(87,21):
+       см. объявление "CBackend::C"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(145,48): warning C4458: объявление "T" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(85,20):
+       см. объявление "CBackend::T"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(186,38): warning C4458: объявление "C" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(87,21):
+       см. объявление "CBackend::C"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(187,38): warning C4458: объявление "C" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(87,21):
+       см. объявление "CBackend::C"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(188,38): warning C4458: объявление "C" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(87,21):
+       см. объявление "CBackend::C"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(189,39): warning C4458: объявление "C" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(87,21):
+       см. объявление "CBackend::C"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(190,39): warning C4458: объявление "C" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(87,21):
+       см. объявление "CBackend::C"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(191,39): warning C4458: объявление "C" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(87,21):
+       см. объявление "CBackend::C"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend_Runtime.h(17,56): warning C4458: объявление "M" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(86,19):
+       см. объявление "CBackend::M"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend_Runtime.h(22,51): warning C4458: объявление "M" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(86,19):
+       см. объявление "CBackend::M"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend_Runtime.h(26,50): warning C4458: объявление "M" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(86,19):
+       см. объявление "CBackend::M"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend_Runtime.h(30,53): warning C4458: объявление "M" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(86,19):
+       см. объявление "CBackend::M"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend_Runtime.h(96,54): warning C4458: объявление "C" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(87,21):
+       см. объявление "CBackend::C"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend_Runtime.h(110,16): warning C4457: объявление "C" скрывает параметр функции
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend_Runtime.h(96,54):
+       см. объявление "C"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend_Runtime.h(196,48): warning C4458: объявление "T" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(85,20):
+       см. объявление "CBackend::T"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend_Runtime.h(206,48): warning C4458: объявление "T" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(85,20):
+       см. объявление "CBackend::T"
+  
+D:\Programming\xray_engine\src\Engine\xrRender_R1\stdafx.h(10,10): error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  (компиляция исходного файла "stdafx.cpp")
+  

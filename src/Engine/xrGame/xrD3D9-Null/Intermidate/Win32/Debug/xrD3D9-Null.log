@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets(31,5): warning MSB4211: Свойству "TargetPath" в первый раз присваивается значение, но оно уже было использовано в "D:\Programming\xray_engine\src\Engine\xrGame\xrD3D9-Null\xrD3D9-Null.vcxproj (49,5)".
+C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(1149,5): warning MSB4211: Свойству "GetTargetPathDependsOn" в первый раз присваивается значение, но оно уже было использовано в "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (2259,5)".
+IDirect3D9.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+     Создается библиотека D:\Programming\xray_engine\src\\bin\Win32\Debug\xrD3D9-Null.lib и объект D:\Programming\xray_engine\src\\bin\Win32\Debug\xrD3D9-Null.exp
+  xrD3D9-Null.vcxproj -> D:\Programming\xray_engine\src\bin\Win32\Debug\xrD3D9-Null.dll

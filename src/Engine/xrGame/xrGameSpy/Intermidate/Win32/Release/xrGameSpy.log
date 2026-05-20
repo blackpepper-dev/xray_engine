@@ -1,0 +1,14 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(1149,5): warning MSB4211: Свойству "GetTargetPathDependsOn" в первый раз присваивается значение, но оно уже было использовано в "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (2259,5)".
+cl : командная строка  warning D9035: использование параметра "Zc:forScope-" нежелательно, он будет удален в следующих выпусках
+  DistributionFunc.cpp
+  xrGameSpy.cpp
+  xrGameSpy_Available.cpp
+  xrGameSpy_CDKey.cpp
+  xrGameSpy_HTTP.cpp
+  xrGameSpy_Patching.cpp
+  xrGameSpy_QR2.cpp
+  xrGameSpy_ServerBrowser.cpp
+     Создается библиотека D:\Programming\xray_engine\src\\bin\Win32\Release\xrGameSpy.lib и объект D:\Programming\xray_engine\src\\bin\Win32\Release\xrGameSpy.exp
+  Создание кода
+  Создание кода завершено
+  xrGameSpy.vcxproj -> D:\Programming\xray_engine\src\bin\Win32\Release\xrGameSpy.dll

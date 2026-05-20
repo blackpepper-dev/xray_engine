@@ -1,0 +1,57 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(1149,5): warning MSB4211: Свойству "GetTargetPathDependsOn" в первый раз присваивается значение, но оно уже было использовано в "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (2259,5)".
+cl : командная строка  warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+cl : командная строка  warning D9035: использование параметра "Zc:forScope-" нежелательно, он будет удален в следующих выпусках
+  stdafx.cpp
+cl : командная строка  warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+cl : командная строка  warning D9035: использование параметра "Zc:forScope-" нежелательно, он будет удален в следующих выпусках
+  xrGameSpy_ServerBrowser.cpp
+  xrGameSpy_QR2.cpp
+  xrGameSpy_Patching.cpp
+  xrGameSpy_HTTP.cpp
+  xrGameSpy_CDKey.cpp
+  xrGameSpy_Available.cpp
+  xrGameSpy.cpp
+  DistributionFunc.cpp
+  Создание кода...
+cl : командная строка  warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+cl : командная строка  warning D9035: использование параметра "Zc:forScope-" нежелательно, он будет удален в следующих выпусках
+  nonport.c
+  gcdkeyc.c
+  Создание кода...
+cl : командная строка  warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+cl : командная строка  warning D9035: использование параметра "Zc:forScope-" нежелательно, он будет удален в следующих выпусках
+  sb_serverlist.c
+  sb_serverbrowsing.c
+  sb_server.c
+D:\Programming\xray_engine\src\Engine\xrGame\xrGameSpy\GameSpy\ServerBrowsing\sb_serverbrowsing.c(248,35): warning C5287: операнды — это разные типы перечислений "SBServerListState" и "SBState"; используйте явное приведение для отключения этого предупреждения
+  sb_queryengine.c
+  sb_crypt.c
+  qr2regkeys.c
+  qr2.c
+  ptMain.c
+  md5c.c
+  hashtable.c
+  ghttpProcess.c
+  ghttpPost.c
+  ghttpMain.c
+  ghttpEncryption.c
+  ghttpConnection.c
+  ghttpCommon.c
+  ghttpCallbacks.c
+  ghttpBuffer.c
+  darray.c
+  gsSocketWin32.c
+  Создание кода...
+  Компиляция...
+  gsXML.c
+  gsStringUtil.c
+  gsSSL.c
+  gsSHA1.c
+  gsRC4.c
+  gsLargeInt.c
+  gsCrypt.c
+  gsAvailable.c
+  gcdkeys.c
+  Создание кода...
+     Создается библиотека D:\Programming\xray_engine\src\\bin\Win32\Debug\xrGameSpy.lib и объект D:\Programming\xray_engine\src\\bin\Win32\Debug\xrGameSpy.exp
+  xrGameSpy.vcxproj -> D:\Programming\xray_engine\src\bin\Win32\Debug\xrGameSpy.dll

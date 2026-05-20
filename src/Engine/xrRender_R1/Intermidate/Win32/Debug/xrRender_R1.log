@@ -1,0 +1,317 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(1149,5): warning MSB4211: Свойству "GetTargetPathDependsOn" в первый раз присваивается значение, но оно уже было использовано в "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (2259,5)".
+cl : командная строка  warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+cl : командная строка  warning D9035: использование параметра "Zc:forScope-" нежелательно, он будет удален в следующих выпусках
+  stdafx.cpp
+D:\Programming\xray_engine\src\Engine\xrCore\xrMemory.h(119,11): warning C4595: "operator new": не допускается встроенное объявление функций Operator new или Operator delete, не являющихся членами
+  (компиляция исходного файла "stdafx.cpp")
+  
+D:\Programming\xray_engine\src\Engine\xrCore\xrMemory.h(120,11): warning C4595: "operator delete": не допускается встроенное объявление функций Operator new или Operator delete, не являющихся членами
+  (компиляция исходного файла "stdafx.cpp")
+  
+D:\Programming\xray_engine\src\Engine\xrCore\xrMemory.h(121,11): warning C4595: "operator new[]": не допускается встроенное объявление функций Operator new или Operator delete, не являющихся членами
+  (компиляция исходного файла "stdafx.cpp")
+  
+D:\Programming\xray_engine\src\Engine\xrCore\xrMemory.h(122,11): warning C4595: "operator delete[]": не допускается встроенное объявление функций Operator new или Operator delete, не являющихся членами
+  (компиляция исходного файла "stdafx.cpp")
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(142,43): warning C4458: объявление "C" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(87,21):
+       см. объявление "CBackend::C"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(145,48): warning C4458: объявление "T" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(85,20):
+       см. объявление "CBackend::T"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(186,38): warning C4458: объявление "C" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(87,21):
+       см. объявление "CBackend::C"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(187,38): warning C4458: объявление "C" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(87,21):
+       см. объявление "CBackend::C"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(188,38): warning C4458: объявление "C" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(87,21):
+       см. объявление "CBackend::C"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(189,39): warning C4458: объявление "C" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(87,21):
+       см. объявление "CBackend::C"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(190,39): warning C4458: объявление "C" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(87,21):
+       см. объявление "CBackend::C"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(191,39): warning C4458: объявление "C" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(87,21):
+       см. объявление "CBackend::C"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(229,35): warning C4458: объявление "T" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(85,20):
+       см. объявление "CBackend::T"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(229,72): warning C4458: объявление "C" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(87,21):
+       см. объявление "CBackend::C"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(231,35): warning C4458: объявление "T" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(85,20):
+       см. объявление "CBackend::T"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(231,54): warning C4458: объявление "C" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(87,21):
+       см. объявление "CBackend::C"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend_Runtime.h(17,56): warning C4458: объявление "M" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(86,19):
+       см. объявление "CBackend::M"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend_Runtime.h(22,51): warning C4458: объявление "M" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(86,19):
+       см. объявление "CBackend::M"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend_Runtime.h(26,50): warning C4458: объявление "M" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(86,19):
+       см. объявление "CBackend::M"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend_Runtime.h(30,53): warning C4458: объявление "M" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(86,19):
+       см. объявление "CBackend::M"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend_Runtime.h(96,54): warning C4458: объявление "C" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(87,21):
+       см. объявление "CBackend::C"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend_Runtime.h(110,16): warning C4457: объявление "C" скрывает параметр функции
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend_Runtime.h(96,54):
+       см. объявление "C"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend_Runtime.h(196,48): warning C4458: объявление "T" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(85,20):
+       см. объявление "CBackend::T"
+  
+D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend_Runtime.h(206,48): warning C4458: объявление "T" скрывает член класса
+  (компиляция исходного файла "stdafx.cpp")
+      D:\Programming\xray_engine\src\Engine\xr_3da\R_Backend.h(85,20):
+       см. объявление "CBackend::T"
+  
+cl : командная строка  warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+cl : командная строка  warning D9035: использование параметра "Zc:forScope-" нежелательно, он будет удален в следующих выпусках
+  xrRender_R1.cpp
+  LightShadows.cpp
+D:\Programming\xray_engine\src\Engine\xrRender_R1\LightShadows.cpp(8,10): error C1083: Не удается открыть файл включение: ..\xr_object.h: No such file or directory,
+  (компиляция исходного файла "/LightShadows.cpp")
+  
+  LightProjector.cpp
+D:\Programming\xray_engine\src\Engine\xrRender_R1\LightProjector.cpp(7,10): error C1083: Не удается открыть файл включение: ..\xr_object.h: No such file or directory,
+  (компиляция исходного файла "/LightProjector.cpp")
+  
+  LightPPA.cpp
+D:\Programming\xray_engine\src\Engine\xrRender_R1\LightPPA.cpp(7,10): error C1083: Не удается открыть файл включение: ..\igame_persistent.h: No such file or directory,
+  (компиляция исходного файла "/LightPPA.cpp")
+  
+  GlowManager.cpp
+D:\Programming\xray_engine\src\Engine\xrRender_R1\GlowManager.cpp(6,10): error C1083: Не удается открыть файл включение: ..\igame_persistent.h: No such file or directory,
+  (компиляция исходного файла "/GlowManager.cpp")
+  
+  FStaticRender_RenderTarget.cpp
+D:\Programming\xray_engine\src\Engine\xrRender_R1\FStaticRender_RenderTarget.cpp(3,10): error C1083: Не удается открыть файл включение: ../IGame_Persistent.h: No such file or directory,
+  (компиляция исходного файла "/FStaticRender_RenderTarget.cpp")
+  
+  FStaticRender_Loader.cpp
+D:\Programming\xray_engine\src\Engine\xrRender_R1\FStaticRender_Loader.cpp(2,10): error C1083: Не удается открыть файл включение: ../fbasicvisual.h: No such file or directory,
+  (компиляция исходного файла "/FStaticRender_Loader.cpp")
+  
+  FStaticRender_DetectSector.cpp
+  FStaticRender_Blenders.cpp
+  FStaticRender.cpp
+D:\Programming\xray_engine\src\Engine\xrRender_R1\FStaticRender.cpp(6,10): error C1083: Не удается открыть файл включение: ..\igame_persistent.h: No such file or directory,
+  (компиляция исходного файла "/FStaticRender.cpp")
+  
+  Blender_Vertex_aref.cpp
+  Blender_Vertex.cpp
+  Blender_Shadow_World.cpp
+  Blender_Screen_GRAY.cpp
+  Blender_Model.cpp
+  Blender_LaEmB.cpp
+  Blender_default_aref.cpp
+  Blender_Blur.cpp
+  BlenderDefault.cpp
+  xrStripify.cpp
+  Создание кода...
+  Компиляция...
+  xrRender_console.cpp
+D:\Programming\xray_engine\src\Engine\xrRender\xrRender_console.cpp(116,10): error C1083: Не удается открыть файл включение: ..\xr_ioconsole.h: No such file or directory,
+  (компиляция исходного файла "/xrRender/xrRender_console.cpp")
+  
+  WallmarksEngine.cpp
+D:\Programming\xray_engine\src\Engine\xrRender\WallmarksEngine.cpp(8,10): error C1083: Не удается открыть файл включение: ..\xr_object.h: No such file or directory,
+  (компиляция исходного файла "/xrRender/WallmarksEngine.cpp")
+  
+  VertexCache.cpp
+  tga.cpp
+  Texture.cpp
+  r__sector_traversal.cpp
+D:\Programming\xray_engine\src\Engine\xrRender\r__sector_traversal.cpp(2,10): error C1083: Не удается открыть файл включение: ..\igame_persistent.h: No such file or directory,
+  (компиляция исходного файла "/xrRender/r__sector_traversal.cpp")
+  
+  r__sector.cpp
+D:\Programming\xray_engine\src\Engine\xrRender\r__sector.cpp(7,10): error C1083: Не удается открыть файл включение: ..\xrLevel.h: No such file or directory,
+  (компиляция исходного файла "/xrRender/r__sector.cpp")
+  
+  r__screenshot.cpp
+D:\Programming\xray_engine\src\Engine\xrRender\r__screenshot.cpp(2,10): error C1083: Не удается открыть файл включение: ..\xr_effgamma.h: No such file or directory,
+  (компиляция исходного файла "/xrRender/r__screenshot.cpp")
+  
+  r__dsgraph_render_lods.cpp
+D:\Programming\xray_engine\src\Engine\xrRender\r__dsgraph_render_lods.cpp(8,10): error C1083: Не удается открыть файл включение: ..\igame_persistent.h: No such file or directory,
+  (компиляция исходного файла "/xrRender/r__dsgraph_render_lods.cpp")
+  
+  r__dsgraph_render.cpp
+D:\Programming\xray_engine\src\Engine\xrRender\r__dsgraph_render.cpp(3,10): error C1083: Не удается открыть файл включение: ..\render.h: No such file or directory,
+  (компиляция исходного файла "/xrRender/r__dsgraph_render.cpp")
+  
+  r__dsgraph_build.cpp
+D:\Programming\xray_engine\src\Engine\xrRender\r__dsgraph_build.cpp(3,10): error C1083: Не удается открыть файл включение: ..\fhierrarhyvisual.h: No such file or directory,
+  (компиляция исходного файла "/xrRender/r__dsgraph_build.cpp")
+  
+  PSLibrary.cpp
+D:\Programming\xray_engine\src\Engine\xrRender\PSLibrary.cpp(105,13): warning C4456: объявление "it" скрывает предыдущее локальное объявление
+  (компиляция исходного файла "/xrRender/PSLibrary.cpp")
+      D:\Programming\xray_engine\src\Engine\xrRender\PSLibrary.cpp(99,12):
+       см. объявление "it"
+  
+  ParticleGroup.cpp
+D:\Programming\xray_engine\src\Engine\xrRender\ParticleGroup.cpp(5,10): error C1083: Не удается открыть файл включение: ..\psystem.h: No such file or directory,
+  (компиляция исходного файла "/xrRender/ParticleGroup.cpp")
+  
+  ParticleEffectDef.cpp
+  ParticleEffect.cpp
+  occRasterizer_core.cpp
+  occRasterizer.cpp
+  NvTriStripObjects.cpp
+D:\Programming\xray_engine\src\Engine\xrRender\NvTriStripObjects.cpp(1052,12): warning C4456: объявление "i" скрывает предыдущее локальное объявление
+  (компиляция исходного файла "/xrRender/NvTriStripObjects.cpp")
+      D:\Programming\xray_engine\src\Engine\xrRender\NvTriStripObjects.cpp(954,6):
+       см. объявление "i"
+  
+D:\Programming\xray_engine\src\Engine\xrRender\NvTriStripObjects.cpp(1308,8): warning C4456: объявление "experimentId" скрывает предыдущее локальное объявление
+  (компиляция исходного файла "/xrRender/NvTriStripObjects.cpp")
+      D:\Programming\xray_engine\src\Engine\xrRender\NvTriStripObjects.cpp(1225,6):
+       см. объявление "experimentId"
+  
+  NvTriStrip.cpp
+D:\Programming\xray_engine\src\Engine\xrRender\NvTriStrip.cpp(108,11): warning C4456: объявление "i" скрывает предыдущее локальное объявление
+  (компиляция исходного файла "/xrRender/NvTriStrip.cpp")
+      D:\Programming\xray_engine\src\Engine\xrRender\NvTriStrip.cpp(86,6):
+       см. объявление "i"
+  
+D:\Programming\xray_engine\src\Engine\xrRender\NvTriStrip.cpp(122,11): warning C4456: объявление "i" скрывает предыдущее локальное объявление
+  (компиляция исходного файла "/xrRender/NvTriStrip.cpp")
+      D:\Programming\xray_engine\src\Engine\xrRender\NvTriStrip.cpp(86,6):
+       см. объявление "i"
+  
+D:\Programming\xray_engine\src\Engine\xrRender\NvTriStrip.cpp(133,11): warning C4456: объявление "i" скрывает предыдущее локальное объявление
+  (компиляция исходного файла "/xrRender/NvTriStrip.cpp")
+      D:\Programming\xray_engine\src\Engine\xrRender\NvTriStrip.cpp(86,6):
+       см. объявление "i"
+  
+D:\Programming\xray_engine\src\Engine\xrRender\NvTriStrip.cpp(162,9): warning C4456: объявление "i" скрывает предыдущее локальное объявление
+  (компиляция исходного файла "/xrRender/NvTriStrip.cpp")
+      D:\Programming\xray_engine\src\Engine\xrRender\NvTriStrip.cpp(86,6):
+       см. объявление "i"
+  
+D:\Programming\xray_engine\src\Engine\xrRender\NvTriStrip.cpp(179,12): warning C4456: объявление "i" скрывает предыдущее локальное объявление
+  (компиляция исходного файла "/xrRender/NvTriStrip.cpp")
+      D:\Programming\xray_engine\src\Engine\xrRender\NvTriStrip.cpp(86,6):
+       см. объявление "i"
+  
+D:\Programming\xray_engine\src\Engine\xrRender\NvTriStrip.cpp(193,12): warning C4456: объявление "i" скрывает предыдущее локальное объявление
+  (компиляция исходного файла "/xrRender/NvTriStrip.cpp")
+      D:\Programming\xray_engine\src\Engine\xrRender\NvTriStrip.cpp(86,6):
+       см. объявление "i"
+  
+D:\Programming\xray_engine\src\Engine\xrRender\NvTriStrip.cpp(205,10): warning C4456: объявление "i" скрывает предыдущее локальное объявление
+  (компиляция исходного файла "/xrRender/NvTriStrip.cpp")
+      D:\Programming\xray_engine\src\Engine\xrRender\NvTriStrip.cpp(86,6):
+       см. объявление "i"
+  
+D:\Programming\xray_engine\src\Engine\xrRender\NvTriStrip.cpp(215,10): warning C4456: объявление "i" скрывает предыдущее локальное объявление
+  (компиляция исходного файла "/xrRender/NvTriStrip.cpp")
+      D:\Programming\xray_engine\src\Engine\xrRender\NvTriStrip.cpp(86,6):
+       см. объявление "i"
+  
+  ModelPool.cpp
+D:\Programming\xray_engine\src\Engine\xrRender\ModelPool.cpp(7,11): error C1083: Не удается открыть файл включение: ..\IGame_Persistent.h: No such file or directory,
+  (компиляция исходного файла "/xrRender/ModelPool.cpp")
+  
+  Создание кода...
+  Компиляция...
+  Light_Package.cpp
+  Light_DB.cpp
+D:\Programming\xray_engine\src\Engine\xrRender\Light_DB.cpp(2,10): error C1083: Не удается открыть файл включение: ..\_d3d_extensions.h: No such file or directory,
+  (компиляция исходного файла "/xrRender/Light_DB.cpp")
+  
+  LightTrack.cpp
+D:\Programming\xray_engine\src\Engine\xrRender\LightTrack.cpp(7,10): error C1083: Не удается открыть файл включение: ..\xr_object.h: No such file or directory,
+  (компиляция исходного файла "/xrRender/LightTrack.cpp")
+  
+  light.cpp
+  HOM.cpp
+D:\Programming\xray_engine\src\Engine\xrRender\HOM.cpp(8,10): error C1083: Не удается открыть файл включение: ../GameFont.h: No such file or directory,
+  (компиляция исходного файла "/xrRender/HOM.cpp")
+  
+  FVisual.cpp
+D:\Programming\xray_engine\src\Engine\xrRender\FVisual.cpp(12,10): error C1083: Не удается открыть файл включение: ../fmesh.h: No such file or directory,
+  (компиляция исходного файла "/xrRender/FVisual.cpp")
+  
+  FTreeVisual.cpp
+D:\Programming\xray_engine\src\Engine\xrRender\FTreeVisual.cpp(4,10): error C1083: Не удается открыть файл включение: ..\igame_persistent.h: No such file or directory,
+  (компиляция исходного файла "/xrRender/FTreeVisual.cpp")
+  
+  FSkinned.cpp
+D:\Programming\xray_engine\src\Engine\xrRender\FSkinned.cpp(12,10): error C1083: Не удается открыть файл включение: ../fmesh.h: No such file or directory,
+  (компиляция исходного файла "/xrRender/FSkinned.cpp")
+  
+  FProgressive.cpp
+D:\Programming\xray_engine\src\Engine\xrRender\FProgressive.cpp(117,1): error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "stdafx.h"" в источник.
+  FLOD.cpp
+D:\Programming\xray_engine\src\Engine\xrRender\FLOD.cpp(112,1): error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "stdafx.h"" в источник.
+  DetailModel.cpp
+  DetailManager_VS.cpp
+D:\Programming\xray_engine\src\Engine\xrRender\DetailManager_VS.cpp(261,1): error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "stdafx.h"" в источник.
+  DetailManager_soft.cpp
+  DetailManager_Decompress.cpp
+  DetailManager_CACHE.cpp
+  DetailManager.cpp
+  Blender_tree.cpp
+  Blender_Screen_SET.cpp
+  Blender_Particle.cpp
+  Blender_Model_EbB.cpp
+  Создание кода...
+  Компиляция...
+  Blender_Lm(EbB).cpp
+  Blender_Editor_Wire.cpp
+  Blender_Editor_Selection.cpp
+  Blender_detail_still.cpp
+  Blender_BmmD.cpp
+  Создание кода...
